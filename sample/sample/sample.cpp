@@ -10,7 +10,7 @@ int main()
 	string str;
 	cout << "please enter a string to display!\n";
 	cin >> str;
-	str = str+"bibhuti";
+	str = str+"bibhuti bhusan panda";
 	cout << "you have entered: " << str<<std::endl;
 	return 0;
 }
