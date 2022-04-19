@@ -11,6 +11,7 @@ int main()
 	cout << "please enter a string to display!\n";
 	cin >> str;
 	str = str+"bibhuti bhusan panda";
+	str = str+"Git tag testing";
 	cout << "you have entered: " << str<<std::endl;
 	return 0;
 }
